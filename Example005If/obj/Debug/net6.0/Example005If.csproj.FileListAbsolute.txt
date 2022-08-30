@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\bin\Debug\net6.0\Example005If.exe
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\bin\Debug\net6.0\Example005If.deps.json
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\bin\Debug\net6.0\Example005If.runtimeconfig.json
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\bin\Debug\net6.0\Example005If.dll
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\bin\Debug\net6.0\Example005If.pdb
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.dll
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\refint\Example005If.dll
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.pdb
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\Example005If.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Обучение\Examples\Example005If\obj\Debug\net6.0\ref\Example005If.dll
